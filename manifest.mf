@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.blockz.plugin.blockz
+OpenIDE-Module-Layer: org/blockz/plugin/blockz/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/blockz/plugin/blockz/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.0.1
+
